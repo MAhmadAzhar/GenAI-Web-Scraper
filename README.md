@@ -187,3 +187,4 @@ http://127.0.0.1:5000
 
 While BeautifulSoup extracts raw HTML, Generative AI understands context, filters irrelevant data, and converts unstructured content into clean, structured JSON, making the scraping process smarter and more flexible.
 
+--> Keep index.html in templates folder.
