@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+*.vscode/
+
+# Database (optional if you don't want to upload your local DB)
+*.db
